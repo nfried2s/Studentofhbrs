@@ -28,3 +28,4 @@ public class GermanTranslator implements Translator {
 	}
 
 }
+//bggbgbffg
